@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\sergio rodríguez\desktop\traffic simulation\main.cpp(11): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\sergio rodríguez\desktop\traffic simulation\main.cpp(65): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Traffic Simulation.vcxproj -> C:\Users\Sergio Rodríguez\Desktop\Traffic Simulation\x64\Debug\Traffic Simulation.exe
